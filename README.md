@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tech08mag
+- 👀 I’m interested in all stuff about IT
+- 🌱 I’m currently improving my skills
