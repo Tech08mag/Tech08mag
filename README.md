@@ -10,6 +10,21 @@
 - Languages I'm able to communicate: 🇩🇪🇭🇲🇨🇵
   
 # Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Tech08mag&theme=vue-dark&count_private=true)
 ![Statistiken](https://github-readme-stats.vercel.app/api?username=Tech08mag&count_private=true&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech08mag&show_icons=true&langs_count=10&count_private=true&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true&exclude_repo=WinDoofOS&layout=pie)
+
+
+# Projects
+- Youtube Downloader:
+https://github.com/Tech08mag/Youtube-Downloader
+
+- A basic Script for a discord Bot:
+  https://github.com/Tech08mag/discord-bot
+
+- A Morsecode Interpreter:
+  https://github.com/Tech08mag/morsecode
+
+- A Picture colour to grey changer:
+  https://github.com/Tech08mag/Bild-bearbeitung/
+  
+  
