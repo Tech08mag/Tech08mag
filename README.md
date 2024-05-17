@@ -1,7 +1,11 @@
 ![Windows](https://img.shields.io/badge/OS-Windows-brightgreen?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-brightgreen?style=flat&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/Language-Javascript-blue?style=flat&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/Language-Javascript-black?style=flat&logo=javascript&logoColor=yellow)
+![CSS](https://img.shields.io/badge/Language-CSS-white?style=flat&logo=css&logoColor=blue)
+![HTML](https://img.shields.io/badge/Language-html-black?style=flat&logo=html&logoColor=orange)
+![Java](https://img.shields.io/badge/Language-java-red?style=flat&logo=java&logoColor=white)
+
 # about me 
 - 👋 Hi, I’m @Tech08mag
 - 💞️ I love to code with Python
