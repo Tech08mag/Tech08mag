@@ -7,7 +7,7 @@
 - 💞️ I love to code with Python
 - 👀 I’m interested in Python, Linux and Web development
 - 🌱 I’m currently learning Python, Working with Linux, Hacking & Security
-- Languages I'm able to communicate: 🇩🇪🇭🇲🇨🇵
+- Languages I'm able to communicate: 🇩🇪🇺🇸🇬🇧🇨🇵
   
 # Github Stats
 ![Statistiken](https://github-readme-stats.vercel.app/api?username=Tech08mag&count_private=true&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true) 
