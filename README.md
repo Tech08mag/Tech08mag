@@ -1,4 +1,4 @@
-![Windows](https://img.shields.io/badge/OS-Windows-brightgreen?style=flat&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/OS-Windows-brightgreen?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-brightgreen?style=flat&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python&logoColor=white)
 
