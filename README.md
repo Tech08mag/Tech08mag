@@ -10,7 +10,7 @@
 - 👋 Hi, I’m @Tech08mag
 - 💞️ I love to code with Python
 - 👀 I’m interested in Python, Linux and Web development
-- 🌱 I’m currently learning Python, Working with Linux, Hacking & Security
+- 🌱 I’m currently learning Python/C, Database, Working with Linux, Hacking & Security
 - Languages I'm able to communicate: 🇩🇪🇺🇸🇬🇧🇨🇵
   
 # Github Stats
