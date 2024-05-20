@@ -30,5 +30,7 @@ https://github.com/Tech08mag/Youtube-Downloader
 
 - A Picture colour to grey changer:
   https://github.com/Tech08mag/Bild-bearbeitung/
-  
+
+- My C learning Repository:
+  https://github.com/Tech08mag/c-learn
   
