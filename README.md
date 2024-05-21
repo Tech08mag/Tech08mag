@@ -1,16 +1,28 @@
-![Windows](https://img.shields.io/badge/OS-Windows-brightgreen?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/OS-Linux-brightgreen?style=flat&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/Language-Javascript-black?style=flat&logo=javascript&logoColor=yellow)
-![CSS](https://img.shields.io/badge/Language-CSS-white?style=flat&logo=css&logoColor=blue)
-![HTML](https://img.shields.io/badge/Language-html-black?style=flat&logo=html&logoColor=orange)
-![Java](https://img.shields.io/badge/Language-java-red?style=flat&logo=java&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" height="30" alt="windows logo"  />
+  <img width="12" />
+</div>
+
 
 # about me 
 - 👋 Hi, I’m @Tech08mag
 - 💞️ I love to code with Python
 - 👀 I’m interested in Python, Linux and Web development
-- 🌱 I’m currently learning Python/C, Database, Working with Linux, Hacking & Security
+- 🌱 I’m currently learning Python/C, Database, Working with Linux and Hacking & Security
 - Languages I'm able to communicate: 🇩🇪🇺🇸🇬🇧🇨🇵
   
 # Github Stats
