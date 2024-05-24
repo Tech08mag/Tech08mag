@@ -26,8 +26,8 @@
 - Languages I'm able to communicate: 🇩🇪🇺🇸🇬🇧🇨🇵
   
 # Github Stats
-![Statistiken](https://github-readme-stats.vercel.app/api?username=Tech08mag&count_private=true&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true) 
-
+![Statistiken](https://github-readme-stats.vercel.app/api?username=Tech08mag&count_private=true&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech08mag&show_icons=true&langs_count=10&count_private=true&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true&exclude_repo=WinDoofOS&layout=pie)
 
 
 # Projects
