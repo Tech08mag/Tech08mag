@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/de/e/eb/Logo_Microsoft_Windows.svg" height="30" alt="windows logo"  />
+  <img src="https://designlooter.com/images/windows-7-svg-2.png" height="30" alt="windows logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/download/373553/docker.svg" height="30" alt="windows logo"  />
   <img width="12" />
