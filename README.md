@@ -15,13 +15,15 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/de/e/eb/Logo_Microsoft_Windows.svg" height="30" alt="windows logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/download/373553/docker.svg" height="30" alt="windows logo"  />
+  <img width="12" />
 </div>
 
   # about me 
 - 👋 Hi, I’m @Tech08mag
 - 💞️ I love to code with Python
 - 👀 I’m interested in Python, Linux and Web development
-- 🌱 I’m currently learning Python/C, Database, Working with Linux and Hacking & Security
+- 🌱 I’m currently learning Python/C, DevOps, Docker, Database, Working with Linux and Hacking & Security
 - Languages I'm able to communicate: 🇩🇪🇺🇸🇬🇧🇨🇵
 
 
