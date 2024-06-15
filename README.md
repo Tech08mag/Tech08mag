@@ -17,8 +17,6 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/download/373553/docker.svg" height="30" alt="windows logo"  />
   <img width="12" />
-  <img src="https://www.clipartkey.com/mpngs/m/145-1450071_flask-python-logo-transparent.png" height="30" alt="windows logo"  />
-  <img width="12" />
 </div>
 
   # about me 
