@@ -22,7 +22,7 @@
   # about me 
 - 👋 Hi, I’m @Tech08mag
 - 💞️ I love to code with Python
-- 👀 I’m interested in Python, Linux and Web development
+- 👀 I’m interested in Python, Linux, Homelab and Web development
 - 🌱 I’m currently learning Python/C, DevOps, Docker, Database, Working with Linux and Hacking & Security
 - Languages I'm able to communicate: 🇩🇪🇺🇸🇬🇧🇨🇵
 
