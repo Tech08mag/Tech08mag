@@ -47,6 +47,6 @@ https://github.com/Tech08mag/Youtube-Downloader
   https://github.com/Tech08mag/Bild-bearbeitung/
 
 - My C learning Repository:
-  https://github.com/Tech08mag/c-learn](https://github.com/Tech08mag/C-lernen
+  https://github.com/Tech08mag/C-lernen
 
 
