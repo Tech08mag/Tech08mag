@@ -37,15 +37,6 @@
 - Youtube Downloader:
 https://github.com/Tech08mag/Youtube-Downloader
 
-- A basic Script for a discord Bot:
-  https://github.com/Tech08mag/discord-bot
-
-- A Morsecode Interpreter:
-  https://github.com/Tech08mag/morsecode
-
-- A Picture colour to grey changer:
-  https://github.com/Tech08mag/Bild-bearbeitung/
-
 - My C learning Repository:
   https://github.com/Tech08mag/C-lernen
 
