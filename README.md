@@ -33,4 +33,4 @@
 
 
 # tech08mag
-<img src="profile.jpeg" alt="profile">
+<img src="new.jpeg" alt="profile">
