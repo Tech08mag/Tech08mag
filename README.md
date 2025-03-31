@@ -17,6 +17,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/download/373553/docker.svg" height="30" alt="windows logo"  />
   <img width="12" />
+  <img sec="https://linuxmint.com/web/img/logo-mono.svg" height="30" alt="mint"/>
 </div>
 
   # about me 
