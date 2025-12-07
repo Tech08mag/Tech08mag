@@ -28,7 +28,7 @@
 
 
   # Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech08mag)](https://github.com/Tech08mag/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech08mag)](https://github.com/anuraghazra/github-readme-stats)
 
 # tech08mag
 <img src="new.jpeg" alt="profile">
