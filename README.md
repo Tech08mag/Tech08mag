@@ -1,4 +1,4 @@
-'<div align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -28,9 +28,7 @@
 
 
   # Github Stats
-![Statistiken](https://github-readme-stats.vercel.app/api?username=Tech08mag&count_private=true&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=196c2e&hide_border=true) <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech08mag)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech08mag)](https://github.com/Tech08mag/github-readme-stats)
 
 # tech08mag
 <img src="new.jpeg" alt="profile">
