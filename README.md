@@ -30,5 +30,7 @@
   # Github Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tech08mag&show_icons=true)
 
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tech08mag&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
 # tech08mag
 <img src="new.jpeg" alt="profile">
